@@ -8,7 +8,7 @@ import io
 
 #these are main classes your image is trained on
 #you can define the classes in alphabectical order
-PREDICTED_LABELS = ["Starwars", "Marvel","Jurassic world","Harry potter"]
+PREDICTED_LABELS = ["dogs", "cat"]
 
 
 def get_prediction(image_data):
